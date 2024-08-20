@@ -116,7 +116,7 @@ pydantic_core==2.18.4
 SQLAlchemy==2.0.30
 pydash==7.0.7
 emoji==2.12.1
-nltk==3.8.1
+nltk==3.9
 googleapis-common-protos==1.63.1
 proto-plus==1.23.0
 opentelemetry-proto==1.25.0
