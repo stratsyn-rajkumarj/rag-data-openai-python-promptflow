@@ -27,3 +27,4 @@ azure-mgmt-cognitiveservices==13.5.0
 omegaconf-argparse==1.0.1
 omegaconf==2.3.0
 pydantic>=2.6
+dotenv
